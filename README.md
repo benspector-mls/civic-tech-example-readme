@@ -33,6 +33,15 @@ To manage the data necessary for the MayaSnax backend, we have implemented the f
 
 ![](mayasnax-erd.png)
 
+### Key API Endpoints
+
+The MayaSnax API provides the following endpoints:
+
+| endpoint | description | example |
+| - | - | - |
+| `/api/snacks` | Get all possible snack options | `GET /api/snacks` |
+| `/api/snacks/:mood` | Get all snack suggestions for a particular mood | `GET /api/snacks/happy` |
+| `/api/snacks/:snackid` | Post a piece of feedback for a particular snack | `POST /api/snacks/5` |
 
 
 
