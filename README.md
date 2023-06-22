@@ -24,4 +24,6 @@ Studies show that in times of crisis, snacks are the number one source of comfor
 
 We built MayaSnax using the following technologies:
 
+![](mayasnax-technologies.png)
+
 
