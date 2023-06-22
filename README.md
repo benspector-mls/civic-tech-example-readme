@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-MayaSnax is an application to support in understanding what snacks will optimally support Maya based on her mood.
+MayaSnax is an application to enable users to choose a snack that will optimally support Maya based on her mood.
 
 Snack selection is an art, but it’s important to bring some science in as well. By removing the guesswork of attributing snacks to moods, Users can see better results of happiness by using our state-of-the-art matching algorithm.
 
