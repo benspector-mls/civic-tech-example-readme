@@ -27,6 +27,8 @@ We built MayaSnax using the following technologies:
 
 ![](mayasnax-technologies.png)
 
+The frontend was built using HTML, CSS, JavaScript, React, and MaterialUI. The backend was built using Node and Express, bcrypt for password hashing, and a PostgreSQL database.
+
 ### ERD
 
 To manage the data necessary for the MayaSnax backend, we have implemented the following schema in our PostgreSQL database:
