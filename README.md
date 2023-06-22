@@ -12,9 +12,9 @@ MayaSnax aims to provide Evan, Maya's husband, with a useful tool for supporting
 
 ### Product Overview
 
-**Mood Selection**: Users can select a mood to being their MayaSnax experience.
-**Wide Variety of Options**: Users are presented with many possible snacks based on the provided mood.
-**Feedback**: Users can provide feedback to improve the MayaSnax recommendations.
+* **Mood Selection**: Users can select a mood to being their MayaSnax experience.
+* **Wide Variety of Options**: Users are presented with many possible snacks based on the provided mood.
+* **Feedback**: Users can provide feedback to improve the MayaSnax recommendations.
 
 ### Summary
 
